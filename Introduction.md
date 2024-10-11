@@ -6,10 +6,10 @@ The console is where you can find and launch AWS services. Use the search box on
 In this course, you acquire the knowledge that you need to start using the AWS Management Console. You learn how to customize the console, find and access services, and how to manage service costs.
 
 ## Course level 
-This is a foundational level course that is written for learners beginning with cloud computing and AWS services. When you start this course, you don’t need to have a deep understanding of cloud computing.
+>This is a foundational level course that is written for learners beginning with cloud computing and AWS services. When you start this course, you don’t need to have a deep understanding of cloud computing.
 
 ## Objectives
-By the end of this course you will be able to do the following: 
+>By the end of this course you will be able to do the following: 
 
 - Describe the purpose of the AWS Management Console.
 - Navigate the features and functions of the AWS Management Console.
@@ -17,7 +17,7 @@ By the end of this course you will be able to do the following:
 - Identify AWS payment models and service cost factors.
 
 ## Course layout(AWS Educate)
-The course content is set to pause each slide by default. That means you will have to choose play on each slide to review the content. This feature makes the content more accessible to all learners.
+>The course content is set to pause each slide by default. That means you will have to choose play on each slide to review the content. This feature makes the content more accessible to all learners.
 
-If you do not want each slide paused, you can choose to have each slide autoplay. Choose the Autoplay slides button on the title slide. This will change the toggle from a grey pause button to a green play button. The slides will be set to autoplay for the entire course.
+>If you do not want each slide paused, you can choose to have each slide autoplay. Choose the Autoplay slides button on the title slide. This will change the toggle from a grey pause button to a green play button. The slides will be set to autoplay for the entire course.
 
